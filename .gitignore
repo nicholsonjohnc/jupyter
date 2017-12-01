@@ -3,3 +3,7 @@
 *.index
 *.meta
 checkpoint
+Case_Study_4_1.ipynb
+data/ml-100k/*
+data/ml-100k.zip
+Nicholson_John_CS_4.ipynb
